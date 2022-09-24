@@ -1,0 +1,4 @@
+This project is about predicting income of a person.
+It's a binary classification model where we want to predict whether a person will earn more than 50K or not.
+This data is freely available in Kaggle.
+We(Heesuk, Isris and I) are doing this project seperately and discussing things together.
